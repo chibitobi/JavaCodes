@@ -62,7 +62,7 @@ public class NumberFreq {
         int result = new NumberFreq().popular(list);
         //calling class
         System.out.println(result);
-        
+        System.out.println("Just testing");
              
     }
     
