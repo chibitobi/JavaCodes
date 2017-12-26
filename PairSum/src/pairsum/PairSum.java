@@ -15,8 +15,14 @@ public class PairSum {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD
         // TODO code appication logic here
         System.out.println("Hello World");
+=======
+        // TODO code application logic here
+        System.out.println("Hello World");
+
+>>>>>>> 6db88e55e051f68de7eee8b1dc9b3e3995dc699c
     }
     
 }
